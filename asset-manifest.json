@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.13217c20.chunk.js",
-    "app.js.map": "/static/js/app.13217c20.chunk.js.map",
+    "app.js": "/static/js/app.cca5df42.chunk.js",
+    "app.js.map": "/static/js/app.cca5df42.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.27401809.js",
     "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.667f19bf.chunk.js": "/static/js/2.667f19bf.chunk.js",
-    "static/js/2.667f19bf.chunk.js.map": "/static/js/2.667f19bf.chunk.js.map",
+    "static/js/2.11784f94.chunk.js": "/static/js/2.11784f94.chunk.js",
+    "static/js/2.11784f94.chunk.js.map": "/static/js/2.11784f94.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -42,14 +42,15 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.667f19bf.chunk.js.LICENSE.txt": "/static/js/2.667f19bf.chunk.js.LICENSE.txt",
-    "static/media/bg-profile.jpg": "/static/media/bg-profile.c43cd859.jpg",
+    "static/js/2.11784f94.chunk.js.LICENSE.txt": "/static/js/2.11784f94.chunk.js.LICENSE.txt",
     "static/media/bg.jpg": "/static/media/bg.38f38e3f.jpg",
-    "static/media/professional-not-found.png": "/static/media/professional-not-found.2487970f.png"
+    "static/media/photo-profile.jpg": "/static/media/photo-profile.c40bf5b9.jpg",
+    "static/media/professional-not-found.png": "/static/media/professional-not-found.2487970f.png",
+    "static/media/profile.jpg": "/static/media/profile.e7f7cbb6.jpg"
   },
   "entrypoints": [
     "static/js/runtime~app.27401809.js",
-    "static/js/2.667f19bf.chunk.js",
-    "static/js/app.13217c20.chunk.js"
+    "static/js/2.11784f94.chunk.js",
+    "static/js/app.cca5df42.chunk.js"
   ]
 }
